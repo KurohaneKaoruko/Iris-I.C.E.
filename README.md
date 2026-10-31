@@ -1,6 +1,6 @@
-# N.I.C.E.
+# Iris-I.C.E.
 
-**N.I.C.E.**（**N**ovel **I**ntegrated **C**reative **E**nvironment，亦可作 **N**ovel **I**ntelligent **C**omposition **E**ngine）是一个专注于长篇小说创作的本地桌面写作工作台，基于 `Tauri v2 + React + Lexical` 构建。
+**Iris-I.C.E.**（**N**ovel **I**ntegrated **C**reative **E**nvironment，亦可作 **N**ovel **I**ntelligent **C**omposition **E**ngine）是一个专注于长篇小说创作的本地桌面写作工作台，基于 `Tauri v2 + React + Lexical` 构建。
 
 它不是通用编程 IDE，也不是代码代理外壳，而是围绕小说作者的核心工作流设计：
 

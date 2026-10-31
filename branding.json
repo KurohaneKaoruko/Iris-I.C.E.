@@ -1,11 +1,11 @@
 {
-  "displayName": "N.I.C.E.",
+  "displayName": "Iris-I.C.E.",
   "npmName": "nice",
   "crateName": "nice",
   "tauriIdentifier": "com.nice.app",
-  "dataDirName": "N.I.C.E.",
+  "dataDirName": "Iris-I.C.E.",
   "gitSignature": {
-    "name": "N.I.C.E.",
+    "name": "Iris-I.C.E.",
     "email": "nice@local"
   },
   "editor": {

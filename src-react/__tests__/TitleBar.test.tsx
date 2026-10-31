@@ -12,7 +12,7 @@ describe('TitleBar', () => {
       </I18nProvider>,
     )
     expect(html).toContain('title-bar')
-    expect(html).toContain('N.I.C.E.')
+    expect(html).toContain('Iris-I.C.E.')
     expect(html).toContain('测试小说')
     expect(html).not.toContain('title-bar-controls')
   })

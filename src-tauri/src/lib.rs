@@ -1,4 +1,4 @@
-//! N.I.C.E. 共享库：桌面（Tauri）与本地服务端（nice-server）共用。
+//! Iris-I.C.E. 共享库：桌面（Tauri）与本地服务端（nice-server）共用。
 
 pub mod commands;
 pub mod services;

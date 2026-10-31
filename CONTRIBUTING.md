@@ -1,6 +1,6 @@
-# Contributing to N.I.C.E.
+# Contributing to Iris-I.C.E.
 
-感谢你对 N.I.C.E. 的兴趣！欢迎贡献代码。
+感谢你对 Iris-I.C.E. 的兴趣！欢迎贡献代码。
 
 ## 开发环境
 

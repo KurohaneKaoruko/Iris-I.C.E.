@@ -11,7 +11,7 @@
 use clap::Parser;
 
 #[derive(Parser, Debug)]
-#[command(name = "nice-server", version, about = "N.I.C.E. local web server")]
+#[command(name = "nice-server", version, about = "Iris-I.C.E. local web server")]
 struct Args {
   /// Bind host (default 127.0.0.1, loopback only)
   #[arg(long, default_value = "127.0.0.1")]

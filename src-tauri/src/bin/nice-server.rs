@@ -1,4 +1,4 @@
-//! nice-server：本地 Web 服务端。
+//! nice-server：本地 Web 服务端（独立部署形态；桌面壳 main.rs 内嵌同一 `nice::server::run`）。
 //!
 //! 用法：
 //!   nice-server [--host 127.0.0.1] [--port 8765] [--static-dir <dir>] [--data-dir <dir>]
